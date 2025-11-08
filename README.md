@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="UTF-8">
+	 <title>校园贝斯社2025年招新网页</title>
+</head>
+<style>
+      body {
+            font-family: 'Arial', 'Microsoft YaHei', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+     section {
+            background-color: white;
+            padding: 30px;
+            margin-bottom: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+	    h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin: 20px 0;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+        
+        h2 {
+            color: #4a6fa5;
+            font-size: 1.8em;
+            border-bottom: 2px solid #4a6fa5;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        
+        h3 {
+            color: #5a7fb5;
+            font-size: 1.4em;
+            margin-top: 30px;
+        }
+        
+        h4 {
+            color: #6a8fc5;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+		  p {
+            margin-bottom: 15px;
+        }
+        
+        a {
+            color: #4a6fa5;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        
+        a:hover {
+            color: #3a5a85;
+            text-decoration: underline;
+        }
+        
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background-color: white;
+            box-shadow: 0 1px 10px rgba(0,0,0,0.1);
+        }
+        
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        
+        th {
+            background-color: #4a6fa5;
+            color: white;
+            font-weight: bold;
+        }
+      
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+		 .story-content {
+            margin-bottom: 15px;
+            text-indent: 2em;
+        }
+</style>
+<body bgcolor="#FFFFFF">
+<!-- 背景音乐-->
+<audio src="music.mp3"
+       autoplay="autoplay"
+       controls="controls"
+       loop="loop">
+</audio>
+<a name="top"></a>
+<!-- 标题 -->
+<h1 align="center">校园贝斯社 2025 年招新</h1>
+
+<p align="center">
+    <a href="#introduce">社团简介</a> |
+    <a href="#activities">活动安排</a> |
+    <a href="#show">风采展示</a> |
+    <a href="#stories">社员故事</a> |
+    <a href="#signup">在线报名</a>
+</p>
+<hr>
+<!-- 一、社团简介 -->
+<a name="introduce"></a>
+<h2>一、贝斯乐器社团简介：以低频律动构筑音乐灵魂的温暖家园</h2>
+    
+    <section>
+        <p>在音符跃动的校园里，有这样一群人——他们不追逐聚光灯下的独奏，却以沉稳的节奏托起整支乐队的骨架；他们用四根琴弦编织出音乐的根基，让旋律在低频的震颤中迸发力量。这便是<strong>山东师范大学大学贝斯乐器社团</strong>，一个以贝斯为核心，汇聚音乐热爱者的创意社群。自2015年成立以来，社团始终秉持"<strong>以低频为纽带，以热爱为信仰</strong>"的宗旨，致力于推广贝斯文化、培养音乐人才、搭建交流平台，现已成为校园内最具活力与专业性的音乐社团之一。</p>
+    </section>
+    
+    <h3>一、社团定位与使命：低频的守护者，音乐的筑基者</h3>
+    <section>
+        <p>贝斯作为现代音乐中不可或缺的节奏乐器，常被称作"乐队的灵魂"。它以深沉的音色和稳定的律动，为旋律提供支撑，为节奏注入灵魂。然而，在大众认知中，贝斯常因存在感"低调"而被忽视。本社团的成立，正是为了打破这种偏见，让更多人感受到贝斯音乐的独特魅力。</p>
+        <p>我们以"<strong>普及贝斯文化，提升演奏水平，促进音乐交流</strong>"为使命，通过系统化教学、多元化活动与跨领域合作，为成员提供从入门到精通的成长路径。无论是零基础的新手，还是技艺精湛的乐手，都能在这里找到属于自己的舞台。社团不仅关注技术提升，更强调音乐情感的表达与团队协作的精神，力求让每一位成员在低频的震颤中，触摸到音乐的本质。</p>
+    </section>
+    
+    <h3>二、核心活动体系：从课堂到舞台的全链条培养</h3>
+    <section>
+        <h4>1. 专业教学与技能提升</h4>
+        <p>社团每周开设<strong>贝斯基础课程</strong>，由资深成员或外聘教师授课，内容涵盖乐理知识、指法技巧、节奏训练等。针对不同水平的成员，我们设立分级教学体系，并定期组织<strong>大师工作坊</strong>，邀请知名贝斯手分享演奏经验与创作心得。此外，社团还提供<strong>设备共享服务</strong>，帮助成员熟悉不同型号贝斯的音色特点，提升实战能力。</p>
+        
+        <h4>2. 乐队组建与创作支持</h4>
+        <p>社团鼓励成员自由组队，形成风格多样的乐队组合。从流行、摇滚到爵士、放克，成员们在探索中突破边界，创作原创作品。社团定期举办<strong>乐队排练日</strong>，提供专业排练室与设备支持，并邀请音乐制作人指导编曲与录音技巧。近年来，多支成员乐队在校内外比赛中获奖，部分作品更被收录至校园音乐专辑。</p>
+        
+        <h4>3. 舞台实践与演出机会</h4>
+        <p>社团与校内外多个演出平台建立合作，为成员提供丰富的表演机会。每年举办的<strong>"低音狂欢"主题音乐节</strong>，已成为校园文化的标志性活动。此外，社团还参与校庆、迎新晚会、公益演出等，用音乐传递温暖与力量。2023年，社团受邀参与市青年音乐节，与专业乐队同台竞技，展现了校园贝斯手的实力与风采。</p>
+        
+        <h4>4. 跨社团合作与文化交流</h4>
+        <p>我们积极与吉他社、鼓社、声乐社等开展联合活动，通过<strong>即兴演奏会</strong>、<strong>音乐创作营</strong>等形式，探索不同乐器的融合可能。此外，社团还与兄弟院校贝斯社团建立联系，定期举办<strong>线上交流赛</strong>，分享教学经验与演出视频，共同推动贝斯文化的发展。</p>
+    </section>
+    
+    <h3>三、社团文化与精神内核：低频中的共鸣，沉默中的力量</h3>
+    <section>
+        <p>贝斯社团的魅力，不仅在于音乐本身，更在于其独特的文化氛围。这里没有"主角"与"配角"的区分，只有对节奏的共同追求；这里不强调个人英雄主义，而是崇尚团队协作与默契配合。在排练室里，一句"这段节奏再稳一点"的提醒，往往比掌声更能让人感动；在演出后台，一个默契的眼神交换，便能让整个乐队的心跳同步。</p>
+        <p>社团成员常说："<strong>贝斯手是乐队中最懂'退一步'的人</strong>。"这种谦逊与包容，正是社团文化的核心。我们相信，音乐的价值不在于独奏的华丽，而在于如何通过低频的震颤，将所有人的情感联结在一起。</p>
+    </section>
+    
+    <h3>四、未来展望：让低频之声传得更远</h3>
+    <section>
+        <p>展望未来，社团计划进一步拓展活动形式，包括开设<strong>线上教学频道</strong>、录制贝斯教学视频、举办全国校园贝斯大赛等，让更多人感受到贝斯的魅力。同时，我们也将加强与音乐产业的合作，为成员提供实习、演出等职业发展机会，助力音乐梦想的实现。</p>
+    </section>
+    
+    <section>
+        <p><strong>山东师范大学贝斯乐器社团</strong>，是一个让低频发声的舞台，是一个让热爱扎根的家园。在这里，每一根琴弦的震动，都是对音乐的致敬；每一次节奏的起伏，都是对青春的礼赞。无论你是初学者还是资深乐手，只要你热爱贝斯，热爱音乐，这里都将是你绽放光芒的地方。加入我们，让低频的震颤，成为你生命中最动人的旋律！</p>
+    </section>
+
+<div class="back-to-top">
+    <a href="#top">返回顶部</a>
+</div>
+
+<hr>
+
+<!-- 二、活动安排-->
+<a name="activities"></a>
+<h2>二、本学期主要活动安排</h2>
+
+<p>
+    为了让大家更好地了解贝斯社的日常，本学期计划安排如下几项主要活动。
+    具体时间可能会根据学校统一安排略作调整，详情请关注社团通知。
+</p>
+
+<table border="1" cellspacing="0" cellpadding="5" width="90%">
+    <tr>
+        <!-- 合并 4 列，做表格总标题 -->
+        <th colspan="4">贝斯社 2025 年春季学期活动安排表</th>
+    </tr>
+    <tr>
+        <th>活动名称</th>
+        <th>活动时间</th>
+        <th>活动地点</th>
+        <th>负责人</th>
+    </tr>
+    <tr>
+        <td>新成员见面会</td>
+        <td>3 月第 2 周 周五晚</td>
+        <!-- 使用 rowspan 合并两行地点 -->
+        <td rowspan="2">学生活动中心 音乐教室 201</td>
+        <td>张强</td>
+    </tr>
+    <tr>
+        <td>贝斯基础教学公开课</td>
+        <td>3 月第 3 周 周六下午</td>
+        <td>李娜</td>
+    </tr>
+    <tr>
+        <td>校园草地弹唱会</td>
+        <td>4 月第 2 周 周日</td>
+        <td>操场东侧草坪</td>
+        <td>王浩</td>
+    </tr>
+    <tr>
+        <td>期末专场音乐会</td>
+        <td>6 月第 1 周 周六晚</td>
+        <td>大学生活动中心 大礼堂</td>
+        <td>刘芳</td>
+    </tr>
+</table>
+
+<p>
+    上表仅列出了部分代表性活动，日常还会有小型即兴合奏、经验分享等活动，
+    欢迎有想法、有创意的同学参与策划。
+</p>
+
+<p align="right">
+    <a href="#top">返回顶部</a>
+</p>
+
+<hr>
+
+<!-- 三、风采展示-->
+<a name="show"></a>
+<h2>三、贝斯社风采展示</h2>
+
+<p>
+    下面是一张往届校园音乐会的照片示意。
+</p>
+
+<!-- 图片超链接 -->
+<a href="club_intro.html" target="_blank">
+    <img src="beisi.png"
+         alt="贝斯社往届音乐会照片"
+         width="320"
+         height="220"
+         border="0">
+</a>
+
+<p>
+    图中为上学期“夏日之声”校园音乐会上，贝斯社成员的集体演出场景。
+    平时的训练与排练，都会在正式演出中得到充分的展示机会。
+</p>
+
+<h3>宣传视频示例</h3>
+
+<!-- 多媒体嵌入（示例视频） -->
+<embed src="play.mp4"
+       width="480"
+       height="270"
+       loop="true">
+</embed>
+
+<p align="right">
+    <a href="#top">返回顶部</a>
+</p>
+
+<hr>
+
+<!-- 四、社员故事-->
+<a name="stories"></a>
+<h2>四、社员故事（节选）</h2>
+
+  <section>
+        <h3>第一章：从零开始的勇气——林小满的破茧之路</h3>
+        <p class="story-content">“第一次触碰贝斯时，我甚至分不清指板上的品格。”计算机系大三的林小满抚摸着琴颈上的划痕，那些深浅不一的印记见证着她387天的蜕变。</p>
+        <p class="story-content">3033年深秋，这个戴着黑框眼镜的理科女生抱着“挑战自我”的念头加入社团。面对《Come As You Are》的经典riff，她连续三周每天练习6小时，直到指尖磨出血泡结成茧。“最崩溃的是总把四弦弹成五弦的音，”她笑着展示手机里37段失败录音，“但每次听到学长说‘这次比上次多坚持了30秒’，就又能爬起来继续。”</p>
+        <p class="story-content">转机出现在第49次排练。当她终于完整弹下《Smells Like Teen Spirit》的间奏时，整个排练室突然安静——主唱张野的鼓棒停在半空，吉他手李航的扫弦戛然而止。“那一刻，”小满眼眶发红，“我听见自己的琴弦在唱歌。”</p>
+    </section>
+
+    <section>
+        <h3>第二章：跨界者的狂想曲——陈默的音乐实验</h3>
+        <p class="story-content">当建筑系研究生陈默背着他的定制五弦贝斯走进排练室时，所有人都以为这个沉默寡言的学霸走错了地方。但当他用参数化设计软件生成的波形图解释即兴演奏逻辑时，整个社团陷入了震撼。</p>
+        <p class="story-content">“贝斯不是背景音，”陈默的镜片反射着电脑屏幕的蓝光，“它是音乐的骨架。”这个将结构力学融入节奏型的怪才，用建筑思维重构了传统演奏方式。在改编《Bohemian Rhapsody》时，他创造性地将歌剧段落转化为贝斯点弦，配合3D打印的特殊琴桥，创造出前所未有的空间音效。</p>
+    </section>
+
+    <section>
+        <h3>第三章：轮椅上的低音诗人——苏晓的生命律动</h3>
+        <p class="story-content">艺术治疗专业的苏晓总说：“我的轮椅是移动的舞台。”三年前那场车祸让她永远失去了站立的能力，却让贝斯成为她新的双腿。</p>
+        <p class="story-content">“第一次在康复中心听到《The Girl from Ipanema》的贝斯线，”她轻轻转动轮椅调整坐姿，“就像看见阳光穿透乌云。”社团为她特别定制了低位琴架，成员们自发组成“人肉扶手”陪她上下台阶。在改编《Fly Me to the Moon》时，她将轮椅转动频率与扫弦节奏同步，创造出独特的动态表演形式。</p>
+    </section>
+
+    <section>
+        <h3>第四章：银发新声——王教授的摇滚晚年</h3>
+        <p class="story-content">65岁的退休物理学教授王建国是社团最特殊的成员。这个总穿着格子衬衫的老先生，抱着贝斯练习《Sweet Child O' Mine》的样子让所有人忍俊不禁。</p>
+        <p class="story-content">“年轻时忙着搞科研，”王教授调试着效果器，“退休了才发现音乐才是终极公式。”他从乐理知识学起，用做实验的严谨态度研究指法。在改编《Hotel California》时，他运用傅里叶变换分析音高频率，写出精确到毫秒的演奏谱。</p>
+    </section>
+
+    <section>
+        <h3>第五章：无声世界的旋律——听障少女李薇的振动之旅</h3>
+        <p class="story-content">当李薇把助听器贴在琴箱上时，整个世界开始震颤。这个先天听力障碍的女孩，通过触觉感知着贝斯发出的每一次振动。</p>
+        <p class="story-content">“第一次感受到低音穿透身体时，”她用手语比划着，“就像春天解冻的河流。”社团为她改造了震动反馈装置，将不同音高转化为不同强度的触觉信号。在演奏《Another Brick in the Wall》时，她通过地板的震动节奏准确卡拍，成为乐队不可或缺的“人体节拍器”。</p>
+    </section>
+
+    <section>
+        <h3>第六章：跨国界的低音对话——留学生山本的东方探索</h3>
+        <p class="story-content">来自日本京都的山本健一最初是被三味线与贝斯的相似性吸引。“它们都有独特的拨片技巧，”他仔细比较着两种乐器，“但贝斯的低频更像大地的心跳。”</p>
+        <p class="story-content">这个痴迷中国民乐的留学生，将《二泉映月》改编成贝斯独奏版。他用轮指技巧模拟古琴的泛音，配合效果器营造出空山幽谷的意境。“在京都的茶室里，”山本调试着东方风格的琴颈贴纸，“贝斯可以像三弦琴那样诉说千年故事。”</p>
+    </section>
+
+    <section>
+        <h3>尾声：低音部的永恒回响</h3>
+        <p class="story-content">这些故事只是贝斯社团众多生命片段的剪影。在这里，每个琴弦的震动都在诉说：音乐从不是孤独的狂欢，而是灵魂的共振。当夜幕降临，排练室的灯光依然明亮，那些执着于四根琴弦的身影，正在用最深沉的低音，书写着青春最动人的诗篇。</p>
+    </section>
+
+<p align="right">
+    <a href="#top">返回顶部</a>
+</p>
+
+<hr>
+
+<!-- 五、在线报名表-->
+<a name="signup"></a>
+<h2>五、贝斯社在线报名表</h2>
+
+<p>
+    请认真填写以下信息，确保联系方式准确无误。
+    提交后，社团会通过电话或短信的方式通知面谈或试音时间。
+</p>
+
+<!-- 表单：使用各种控件（文本框、单选、复选、下拉、文本域、提交、重置） -->
+<form action="#" method="post">
+    <table border="1" cellspacing="0" cellpadding="5" width="90%">
+        <tr>
+            <td width="20%">姓名：</td>
+            <td>
+                <input type="text" name="username" size="20">
+            </td>
+        </tr>
+        <tr>
+            <td>性别：</td>
+            <td>
+                <input type="radio" name="gender" value="男" checked> 男
+                <input type="radio" name="gender" value="女"> 女
+            </td>
+        </tr>
+        <tr>
+            <td>出生日期：</td>
+            <td>
+                <input type="text" name="year" size="4"> 年
+                <input type="text" name="month" size="2"> 月
+                <input type="text" name="day" size="2"> 日
+            </td>
+        </tr>
+        <tr>
+            <td>联系方式：</td>
+            <td>
+                手机：<input type="text" name="phone" size="15">
+                <br>
+                邮箱：<input type="text" name="email" size="30">
+            </td>
+        </tr>
+        <tr>
+            <td>是否有贝斯基础：</td>
+            <td>
+                <input type="radio" name="base" value="无基础" checked> 无基础
+                <input type="radio" name="base" value="会几首简单曲目"> 会几首简单曲目
+                <input type="radio" name="base" value="可独立弹唱"> 可独立弹唱
+            </td>
+        </tr>
+        <tr>
+            <td>兴趣方向（可多选）：</td>
+            <td>
+                <input type="checkbox" name="hobby" value="弹唱"> 弹唱
+                <input type="checkbox" name="hobby" value="指弹"> 指弹
+                <input type="checkbox" name="hobby" value="乐队"> 组建乐队
+                <input type="checkbox" name="hobby" value="创作"> 原创歌曲创作
+                <input type="checkbox" name="hobby" value="录音"> 录音与后期
+            </td>
+        </tr>
+        <tr>
+            <td>年级：</td>
+            <td>
+                <select name="grade">
+                    <option value="大一" selected>大一</option>
+                    <option value="大二">大二</option>
+                    <option value="大三">大三</option>
+                    <option value="大四">大四</option>
+                    <option value="研究生">研究生</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>自我介绍：</td>
+            <td>
+                <textarea name="intro" rows="6" cols="50">
+请简单介绍自己、以及加入贝斯社的理由……
+                </textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>是否服从活动安排：</td>
+            <td>
+                <input type="radio" name="obey" value="是" checked> 是
+                <input type="radio" name="obey" value="否"> 否
+            </td>
+        </tr>
+        <tr>
+            <td>提交操作：</td>
+            <td>
+                <input type="submit" value="提交报名">
+                <input type="reset" value="重置表单">
+            </td>
+        </tr>
+    </table>
+</form>
+
+<p>
+    提交表单后，如需修改信息，可以再次填写并提交最新的一份。
+</p>
+
+<p align="right">
+    <a href="#top">返回顶部</a>
+</p>
+
+<br><br><br>
+
+<hr>
+<p align="center">
+    校园贝斯社 · 2025 招新网页<br>
+    本页面仅作为 HTML 基础实验代码。
+</p>
+
+</body>
+</html>
